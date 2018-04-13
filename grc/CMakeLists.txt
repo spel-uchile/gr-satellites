@@ -66,6 +66,7 @@ install(FILES
     satellites_ao40_syncframe_soft.xml
     satellites_ao40_deinterleaver_soft.xml
     satellites_beesat_classifier.xml
-    satellites_snet_telemetry_parser.xml
+    satellites_print_csp_message.xml
+    satellites_suchai_telemetry.xml
     DESTINATION share/gnuradio/grc/blocks
 )
