@@ -87,5 +87,5 @@ from snet_deframer import snet_deframer
 
 from beesat_classifier import beesat_classifier
 
-from snet_telemetry_parser import snet_telemetry_parser
-
+from suchai_telemetry import suchai_telemetry
+from print_csp_message import print_message
